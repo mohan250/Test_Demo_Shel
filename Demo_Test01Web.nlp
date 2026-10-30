@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=Demo_Test01Web
+project.version=8.11
+project.original.version=8.11
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2026.2.0
+project.is-open-test-settings-after-upload=false
+project.id=3b58c892-3454-4b79-8ea9-b7c54218990c
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=mohan250/Demo_Test.git
